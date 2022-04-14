@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MillenaAQ
-- 👀 I’m interested in QA, Web e Mobile development
+- 👀 I’m interested in QA, Web and Mobile development
 - 🌱 I’m currently learning QA
 - 💞️ I’m looking to collaborate on QA
 - 📫 How to reach me Millena Queiroz at Linkedin
