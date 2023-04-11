@@ -1,15 +1,11 @@
-- 👋 Hi, I’m Millena!
-- 👀 I’m interested in QA, Web and Mobile development
-- 🌱 I’m currently learning QA
-- 💞️ I’m looking to collaborate on QA
-- 📫 How to reach me: Millena Queiroz at Linkedin
+# Hello! 👋 
 
-### Ferramentas e Tecnologias
+I'm Millena, a Quality Engineer from Brasília, Brazil 🇧🇷 with a passion for all things tech. 
 
-<img src="https://user-images.githubusercontent.com/103457849/164246796-64e48110-6884-4ac2-8037-110db9708726.png" width="40" height="40"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="40" height="40"/>
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"/>
-<!---
-MillenaAQ/MillenaAQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📱 My focus is on the quality of the *app* and on some processes related to payments, so that the user has the best experience possible.
+- 🎓 I'm currently pursuing a Bachelor's degree in Software Engineering (UnB), and am excited to apply the skills I learn to my work in the field.
+- 💬 If you have any questions or just want to chat about all things tech, don't hesitate to reach out! 🤗 
+
+
+## Tools and Technologies
+<img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/appium.png" width="70px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width="50px"/> <img src="https://cdn-images-1.medium.com/max/1200/1*ilC2Aqp5sZd1wi0CopD1Hw.png" width="50px"/>
